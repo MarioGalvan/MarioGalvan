@@ -9,7 +9,7 @@ Joined Github **5** years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with React Js, React Native <br /> Mongodb, Javascript, Firebase, Redux Toolkit etc.
+- 🛠 &nbsp; I’m currently working with Node Js | Angular | Nest Js | React Js, React Native <br /> Mongodb, Javascript, Firebase, Redux Toolkit etc.
 - 🚀 &nbsp; I’m currently learning Spring Boot.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MarioGalvan).
 - 📫 &nbsp; How to reach me: marioupc3@gmail.com.
